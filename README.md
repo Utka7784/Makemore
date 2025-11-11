@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="outputs/sample_generation_preview.png" alt="Sample Output Preview" width="600"/>
+  <img src="Function.png" alt="Sample Output Preview" width="600"/>
 </p>
 
 ---
